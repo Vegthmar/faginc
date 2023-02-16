@@ -2,7 +2,8 @@
     "name": "fag",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "fag": "github:vegthmar/faginc#62bbf6d8dd7996f58cdc4fd9862f4d9616361b65"
     },
     "files": [
         "main.blocks",
